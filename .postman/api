@@ -4,6 +4,7 @@ id = 279d8c70-3984-4ca2-8570-f026a691b19b
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"16958177-4c147786-8cc5-45ac-8f4d-fe0577c54b2f","path":"sciorbisdevcal.json","metaData":{}}
 
 [relations.collections.metaData]
 
